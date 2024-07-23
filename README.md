@@ -7,9 +7,9 @@
 
 > Entregue:
 
-![image](assets\entregue_1.png)
-![image](assets\entregue_2.png)
-![image](assets\entregue_3.png)
+![image](https://github.com/kamilyassis/trilha-css-desafio-01/blob/main/assets/entregue_1.png)
+![image](https://github.com/kamilyassis/trilha-css-desafio-01/blob/main/assets/entregue_2.png)
+![image](https://github.com/kamilyassis/trilha-css-desafio-01/blob/main/assets/entregue_3.png)
 
 > Referências:
 
